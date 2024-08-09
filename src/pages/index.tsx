@@ -19,6 +19,7 @@ export default function Home() {
 				overflow="hidden"
 			>
 				<Image
+					priority
 					src="https://picsum.photos/id/38/200"
 					alt="https://picsum.photos/id/38/200"
 					fill
